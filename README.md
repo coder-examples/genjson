@@ -1,2 +1,0 @@
-# genjson
-Created with CodeSandbox
